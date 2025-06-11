@@ -1,4 +1,4 @@
-# 🚗 MLOps Project – Vehicle-Insurance-Prediction
+# 🚗 MLOps Project – Vehicle Insurance Prediction
 
 Welcome to this **MLOps project**, crafted to demonstrate a robust, scalable pipeline for managing vehicle insurance data. This project showcases the end-to-end journey from data ingestion to model deployment using industry-standard tools and cloud services.
 
